@@ -113,7 +113,6 @@ include "navbar.php";
 											<input type="text" name="PelangganID" value="<?php echo $d['PelangganID']; ?>" hidden>
 											<button type="submit" formaction="hitung_subtotal.php" class="btn btn-warning btn-sm float-right">Proses</button>
 											<button type="submit" formaction="hapus_detail_pembelian.php" class="btn btn-danger btn-sm float-right">Hapus</button>
-											<button type="submit" formaction="cetak_struk.php" class="btn btn-danger btn-sm float-right">Cetak Struk</button>
 										</form>
 									</div>
 									</td>

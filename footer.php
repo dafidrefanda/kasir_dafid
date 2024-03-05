@@ -1,7 +1,7 @@
 <div class="card mt-2">
                 <div class="card">
                 <div class="card-body text-center">
-                <b> &copy; APLIKASIKASIR2024|DAFID</b>
+                 &copy; 2024 Aplikasi UKK Kasir
                 </div>
                 </div>
             </div>
